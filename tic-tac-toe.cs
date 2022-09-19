@@ -11,5 +11,6 @@ class Program
 { 
     List<string> board = GetNewBoard();
     string currentPlayer = 'x';
-}    
+    
+    while (!IsGameOver(board));
 }
