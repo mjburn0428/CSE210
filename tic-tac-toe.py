@@ -1,4 +1,5 @@
 "Week 2 Tic-Tac-Toe"
+"version 1.1"
 "Class: CSE 210 BYU-I"
 "Author: Joe Burner"
 
@@ -11,7 +12,7 @@ def main():
         make_move(player, board)
         player = next_player(player)
     display_board(board)
-    print("Great game! Thank you for playing tic-tac-toe.") 
+    print("Great game! Thank you for playing tic-tac-toe. Now go have some tic tacs and enjoy on me.") 
 
 def create_board():
     board = []

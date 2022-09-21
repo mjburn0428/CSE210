@@ -1,4 +1,5 @@
 //Week 02 Tic Tac Toe Game CSE210 BYU-I
+//version 1.0
 //author: Joe Burner
 //date 09/19/2022
 
@@ -28,7 +29,7 @@ class Program
     }
 
     DisplayBoard(board);
-    Console.WriteLine("That was a good game. Thank you for playing.");
+    Console.WriteLine("Great game! Thank you for playing tic-tac-toe. Now go enjoy a tic tac on me.");
 
     }
     static List<string> GetNewBoard();
