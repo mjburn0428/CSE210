@@ -1,5 +1,5 @@
 "Week 2 Tic-Tac-Toe"
-"version 1.0"
+"version 1.1"
 "Class: CSE 210 BYU-I"
 "Author: Joe Burner"
 
